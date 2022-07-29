@@ -1,30 +1,29 @@
 ### Hi there/ Hola! 👋
 
-# <h1> printf('Welcome to my profile! 🤗'); </h1>
-# console.log('- 🌱 I’m currently learning JavaScript and NodeJS');
-# echo('- 🔭 I’m currently looking my first work as programmer'); <!-- ![](images/php.gif) -->
-# System.out.print('- 👯 I’m looking to collaborate on proyects');
+<h2> printf('Welcome to my profile! 🤗'); </h2>
+<h3> console.log('- 🌱 I’m currently learning JavaScript and NodeJS '); </h3>
+<h4> echo('- 🔭 I’m currently looking my first work as programmer '); <!-- ![](images/php.gif) --> </h4>
+<h5> System.out.print('- 👯 I’m looking to collaborate on proyects '); </h5>
 
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
 - 😄 Pronouns: He - Him
 - ⚡ Fun fact: ...
-- 📫 How to reach me: <br><br>
+-->
+
+- 📫 How to reach me:
   <ul>
-  <li> Linkedin <a> href = "https://www.linkedin.com/in/alexnahuelecheverria/" </a> </li> </br>
-  <li> Facebook <br>
-            "https://www.facebook.com/AlexNahuelEcheverriaa/", </li><br>
-  <li>"instagram": <br>
-            "https://www.instagram.com/alexnahuelecheverria/",</li><br>
-  <li>"Emails": <br>
-                <ul>
-                    [<br>
-                        <li>"aleex.naahuel@outlook.com",</li><br>
-                        <li>"alexnahuelecheverria@hotmail.com",</li><br>
-                        <li>"alexnahuelecheverria@gmail.com"</li><br>
-                    ];<br>
-                </ul>            
+    <li> <a href = "https://www.linkedin.com/in/alexnahuelecheverria/"> Linkedin </a> </li>
+    <li> <a href = "https://www.facebook.com/AlexNahuelEcheverriaa/"> Facebook </a> </li>
+    <li> <a href = "https://www.instagram.com/alexnahuelecheverria/"> Instagram </a> </li>
+    <li>Emails:
+      <ul>
+        <li> aleex.naahuel@outlook.com </li>
+        <li> alexnahuelecheverria@hotmail.com </li>
+        <li> alexnahuelecheverria@gmail.com </li>
+      </ul>            
    </ul>
 
 ![Anurag's github stats](https://github.com/echeverriaalex/TP-Final-LabIV.git)
