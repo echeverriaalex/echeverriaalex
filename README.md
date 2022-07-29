@@ -16,6 +16,7 @@
 - 📫 How to reach me:
   <ul>
     <li> <a href = "https://www.linkedin.com/in/alexnahuelecheverria/"> Linkedin </a> </li>
+    <li> <a href = "https://walink.co/9bf7a9"> WhatsApp </a> </li>
     <li> <a href = "https://www.facebook.com/AlexNahuelEcheverriaa/"> Facebook </a> </li>
     <li> <a href = "https://www.instagram.com/alexnahuelecheverria/"> Instagram </a> </li>
     <li>Emails:
