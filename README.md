@@ -26,8 +26,8 @@
         <li> alexnahuelecheverria@gmail.com </li>
       </ul>            
    </ul>
-
+<!--
 ![Anurag's github stats](https://github.com/echeverriaalex/TP-Final-LabIV.git)
-
+-->
 <!-- ![](images/programming.gif) -->
 ![](images/typing.gif)
