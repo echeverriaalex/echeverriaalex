@@ -26,6 +26,10 @@
         <li> alexnahuelecheverria@gmail.com </li>
       </ul>            
    </ul>
+
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=echeverriaalex&show_icons=true&locale=en&layout=compact&theme=aura" alt="echeverriaalex" /></p>
+
+
 <!--
 ![Anurag's github stats](https://github.com/echeverriaalex/TP-Final-LabIV.git)
 -->
