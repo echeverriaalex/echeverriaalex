@@ -1,9 +1,9 @@
 ### Hi there/ Hola! 👋
-
+<!--
 <h2> printf('Welcome to my profile! 🤗'); </h2>
 <h3> console.log('- 🌱 I’m currently learning JavaScript and NodeJS '); </h3>
-<!-- <h4> echo('- 🔭 I’m currently looking my first work as programmer '); -->
-<!-- ![](images/php.gif) --> </h4>
+ <h4> echo('- 🔭 I’m currently looking my first work as programmer ');
+ ![](images/php.gif)  </h4> -->
 <!--
 <h5> System.out.print('- 👯 I’m looking to collaborate on proyects '); </h5>
 -->
@@ -20,6 +20,7 @@
     <li> <a href = "https://www.linkedin.com/in/alexnahuelecheverria/"> Linkedin </a> </li>
     <li> <a href = "https://walink.co/9bf7a9"> WhatsApp </a> </li>
     <li>Email: aleex.naahuel@outlook.com </li>
+  </ul>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=echeverriaalex&show_icons=true&locale=en&layout=compact&theme=aura" alt="echeverriaalex" /></p>
 
