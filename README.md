@@ -18,7 +18,6 @@
 - 📫 How to reach me:
   <ul>
     <li> <a href = "https://www.linkedin.com/in/alexnahuelecheverria/"> Linkedin </a> </li>
-    <li> <a href = "https://walink.co/9bf7a9"> WhatsApp </a> </li>
     <li>Email: aleex.naahuel@outlook.com </li>
   </ul>
 
