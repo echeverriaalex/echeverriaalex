@@ -1,6 +1,11 @@
+<img src="https://media.giphy.com/media/L3c8WjjcwzKkyQoyd4/giphy.gif" width=40 /> 
+<h1 align="center">
+    <tt>> Hello world</tt>
+    
+</h1>
+<img src="https://media.giphy.com/media/QAIKt9SHtOBcEsAjqf/giphy.gif" width=40 /> 
 ### Hi there/ Hola! 👋
 <!--
-<h2> printf('Welcome to my profile! 🤗'); </h2>
 <h3> console.log('- 🌱 I’m currently learning JavaScript and NodeJS '); </h3>
  <h4> echo('- 🔭 I’m currently looking my first work as programmer ');
  ![](images/php.gif)  </h4> -->
