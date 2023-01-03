@@ -6,7 +6,7 @@
 ### Hi there/ Hola! 👋
 
 <p align="center">
-    <img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" width=80 /> <a href = "https://www.linkedin.com/in/alexnahuelecheverria/"> Alex Nahuel Echeverria </a>
+    <a href="https://www.linkedin.com/in/alexnahuelecheverria/"> <img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" width=80 /> Alex Nahuel Echeverria </a>
 </p>
 
 <h2> About Me </h2>
