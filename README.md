@@ -1,32 +1,36 @@
-<img src="https://media.giphy.com/media/L3c8WjjcwzKkyQoyd4/giphy.gif" width=40 /> 
+
 <h1 align="center">
-    <tt>> Hello world</tt>
-    
+   <tt>> Hello world!</tt> <img margin="auto" src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" heigh=100 width=100 />   
 </h1>
-<img src="https://media.giphy.com/media/QAIKt9SHtOBcEsAjqf/giphy.gif" width=40 /> 
+
 ### Hi there/ Hola! 👋
-<!--
-<h3> console.log('- 🌱 I’m currently learning JavaScript and NodeJS '); </h3>
- <h4> echo('- 🔭 I’m currently looking my first work as programmer ');
- ![](images/php.gif)  </h4> -->
-<!--
-<h5> System.out.print('- 👯 I’m looking to collaborate on proyects '); </h5>
--->
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 
-- 😄 Pronouns: He - Him
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://www.linkedin.com/in/alexnahuelecheverria/"> <img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" width=80 /> Alex Nahuel Echeverria </a>
+</p>
 
-- 📫 How to reach me:
-  <ul>
-    <li> <a href = "https://www.linkedin.com/in/alexnahuelecheverria/"> Linkedin </a> </li>
-    <li>Email: aleex.naahuel@outlook.com </li>
-  </ul>
+<h2> About Me </h2>
+My name is Alex Echeverria,  I am 24 years old, I live in Argentina, I study programming at the Universidad Tecnologica Nacional,
+I’m currently practicing JavaScript and NodeJS by implementing packages like Express, bcrypt, body-parser, jsonwebtoken, nodemon, nodemailer, sequelize, chai, mocha and some more.
+I’m looking my first work as programmer.
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=echeverriaalex&show_icons=true&locale=en&layout=compact&theme=aura" alt="echeverriaalex" /></p>
+<ul> <h3> I have knowledge of </h3>
+    <li> Java </li>
+    <li> PHP </li>
+    <li> MySql </li>
+    <li> PostgreSQL </li>
+    <li> MongoDB </li>
+    <li> HTML </li>
+    <li> CSS </li>
+    <li> C </li>
+    <li> C++ </li>
+</ul>
+
+<p align="center" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=echeverriaalex&show_icons=true&locale=en&layout=compact&theme=aura" alt="echeverriaalex" />
+    <img align="center" src="images/typing.gif" alt="echeverriaalex" />
+    
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echeverriaalex&label=Profile%20views&color=0e75b6&style=flat" alt="darguelles" /> </p>
@@ -38,6 +42,6 @@
 
 <!--
 ![Anurag's github stats](https://github.com/echeverriaalex/TP-Final-LabIV.git)
--->
-<!-- ![](images/programming.gif) -->
 ![](images/typing.gif)
+-->
+
